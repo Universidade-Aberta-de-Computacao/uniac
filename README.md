@@ -10,7 +10,7 @@ O UNIAC não será completamente baseado na OSSU pois vai se adequar a realidade
 
 ## O que é o estudo da computação?
 
-O estudo da computação em nível universitário abrange todo tipo de conhecimento que serve de base fundamental para estudantes possam seguir por uma ou mais áreas de especialidades dentro da tecnologia dos computadores.
+O estudo da computação em nível universitário abrange todo tipo de conhecimento que serve de base fundamental para que estudantes possam seguir por uma ou mais áreas de especialidades dentro da tecnologia dos computadores.
 
 Seja para se tornar uma pessoa pesquisadora ou trabalhar no mercado formal, o conhecimento em nível universitário abre possibilidades para decisões sobre **o que estudar**, **o que criar** ou **como resolver problemas**.
 
@@ -35,7 +35,7 @@ Neste programa, além do estudo ligado diretamente a ciência da computação, t
 
 O estudo da computação é sem dúvida uma das áreas com mais conteúdo disponível gratuitamente na internet, porém não existem tantos projetos que se empenham em organizar conteúdos na língua portuguesa.
 
-A motivação deste projeto é dar oportunidade para quem tem dificuldade com outras linguas; ajudar a guiar as pessoas que querem entrar na área ou que já estão na área mas precisam de suporte para expandir seus horizontes; e criar uma comunidade de pessoas que querem aprender mais sobre computação.
+A motivação deste projeto é dar oportunidade para quem tem dificuldade com outras línguas; ajudar a guiar as pessoas que querem entrar na área ou que já estão na área mas precisam de suporte para expandir seus horizontes; e criar uma comunidade de pessoas que querem aprender mais sobre computação.
 
 ## Como faço para participar?
 
@@ -45,13 +45,13 @@ Neste momento, os conteúdos serão organizados de forma que te facilite o camin
 
 ## Custo
 
-Estudar pela UNIAC é completamente **grauito e sempre será**.
+Estudar pela UNIAC é completamente **gratuito e sempre será**.
 
 Você nunca vai pagar nada para consumir o conteúdo e é importante que você nunca compre nada que tentarem te vender com o nome da UNIAC.
 
 ## Turmas de estudo
 
-Atualmente não há nenhuma de estudo formada e nem uma organização para isso. Mas está nos planos deste projeto auxiliar na formação de comunidades de estudos que evoluam juntas e estejam preferivelmente no mesmo nível de estudos.
+Atualmente não há nenhuma turma de estudo formada e nem uma organização para isso. Mas está nos planos deste projeto auxiliar na formação de comunidades de estudos que evoluam juntas e estejam preferivelmente no mesmo nível de estudos.
 
 ## Quem faz a UNIAC
 
