@@ -53,6 +53,10 @@ Você nunca vai pagar nada para consumir o conteúdo e é importante que você n
 
 Atualmente não há nenhuma turma de estudo formada e nem uma organização para isso. Mas está nos planos deste projeto auxiliar na formação de comunidades de estudos que evoluam juntas e estejam preferivelmente no mesmo nível de estudos.
 
+## Como posso ajudar?
+
+Temos um documento explicando como você pode nos ajudar, basta [clicar aqui](https://github.com/Universidade-Aberta-de-Computacao/uniac/blob/master/CONTRIBUTING.md).
+
 ## Quem faz a UNIAC
 
 * [Rafael Soares](https://twitter.com/rafaeltravel88) - Criador
