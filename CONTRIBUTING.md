@@ -24,7 +24,7 @@ Se você não sabe como criar um Pull Request, mande uma [mensagem aqui](https:/
 
 ## Desenvolvimento de Site
 
-Se você é uma pessoa que desenvolve sites, principalmente na área de front-end, precisamos de sua ajuda. Seja para revisar código, participar de discussão sobre arquitetura, dar opinião no design, corrigir bugs ou imlementar algo novo.
+Se você é uma pessoa que desenvolve sites, principalmente na área de front-end, precisamos de sua ajuda. Seja para revisar código, participar de discussão sobre arquitetura, dar opinião no design, corrigir bugs ou implementar algo novo.
 
 No entanto, antes de iniciar qualquer tarefa de desenvolvimento, notifique que você vai trabalhar em algo ou sugira uma nova ideia para que outras pessoas possam ver e debater  antes. Pode ser que outra pessoa já esteja fazendo a mesma coisa ou que tal ideia já possa ter sido discutida e descartada em algum momento anterior.
 
